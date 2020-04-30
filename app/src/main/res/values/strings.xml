@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SplashTextToSpeech</string>
+    <string name="todo">TODO</string>
+    <string name="d">TODO</string>
+    <string name="tdo">TODO</string>
+    <string name="t">TODO</string>
+    <string name="con">TODO</string>
+    <string name="button">SCAN</string>
+    <string name="one">value</string>
+    <string name="hh">TODO</string>
+    <string name="name">Name</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="generate">Generate</string>
+    <string name="save">Save</string>
+    <string name="ehdkj">TODO</string>
+    <string name="uhig">TODO</string>
+    <string name="butt">Button</string>
+    <string name="genera">Generate</string>
+    <string name="textview">TextView</string>
+    <string name="sa">SAVE</string>
+    <string name="sha">SCAN</string>
+    <string name="ifrj">TODO</string>
+    <string name="textviewer">TextView</string>
+    <string name="scan_qr_code">Scan Qr code</string>
+    <string name="your_scan_result">Working on it...</string>
+</resources>
